@@ -51,6 +51,7 @@ body {
     background-color: #ffffff;
 }
 
+
 p {
     margin: 0 0 1.25rem 0;
     color: #444444;
@@ -159,6 +160,7 @@ h6 {
 .container-fluid.full-width {
     padding-left: 0;
     padding-right: 0;
+    
 }
 
 .container-fluid.full-width .row {
